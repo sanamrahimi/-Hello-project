@@ -113,7 +113,6 @@ You can deploy this project using: template or contricute via PR
 
 ## 🔭 Future Features <a name="future-features"></a>
 
->
 
 - [ ] **collaborator-features**
 
