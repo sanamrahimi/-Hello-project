@@ -5,9 +5,6 @@
 <div align="center">
 
  
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello Project</b></h3>
 
 </div>
@@ -84,7 +81,7 @@ Install this project with:npm
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: open in code editor
 
 
 
@@ -116,7 +113,7 @@ You can deploy this project using: template or contricute via PR
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+>
 
 - [ ] **collaborator-features**
 
@@ -143,7 +140,7 @@ If you like this project: visit my page( https://github.com/sanamrahimi)
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+>
 
 I would like to thank Microverse for their support.
 
@@ -165,11 +162,3 @@ I would like to thank Microverse for their support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
