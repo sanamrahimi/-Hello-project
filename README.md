@@ -161,7 +161,7 @@ I would like to thank Microverse for their support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
