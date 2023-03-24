@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# node-models
+node_modules/
+
+test.md/
